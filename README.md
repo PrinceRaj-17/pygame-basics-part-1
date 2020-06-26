@@ -1,8 +1,9 @@
-# pygame-basics
+# ShootnJump
 
 A Basic Game to introduce you to pygame.
+It is very basic use of pygame module.
 
-#Key Mappings
+# Key Mappings
 
 Up Arrow - Jump
 
